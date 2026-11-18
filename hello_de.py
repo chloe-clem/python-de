@@ -17,5 +17,6 @@ print(duckdb.sql("""
     SELECT customer, SUM(amount) AS total
     FROM orders
     GROUP BY customer
+    HAVING total > 100
     ORDER BY total DESC
 """))
