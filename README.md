@@ -73,7 +73,7 @@ uv run lessons/00_setup/hello_de.py                  # run any lesson script
 - [x] First DuckDB script: SQL from Python, GROUP BY / HAVING
 
 ### Phase 1: Python foundations
-- [ ] Strings and operators
+- [x] Strings and operators
 - [ ] Lists and tuples
 - [ ] Dictionaries and sets
 - [ ] Conditionals
