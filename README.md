@@ -74,8 +74,8 @@ uv run lessons/00_setup/hello_de.py                  # run any lesson script
 
 ### Phase 1: Python foundations
 - [x] Strings and operators
-- [ ] Lists and tuples
-- [ ] Dictionaries and sets
+- [x] Lists and tuples
+- [x] Dictionaries and sets
 - [ ] Conditionals
 - [ ] Loops
 - [ ] Functions
